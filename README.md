@@ -5,18 +5,18 @@ This project focuses on analyzing and classifying user reviews of the **YouTube 
 ---
 
 ## 🧩 Project Structure
-
-youtube-app-sentiment-analysis/
-├── data/
-│ └── raw/
-│ └── com.google.android.youtube_reviews.csv # Scraped dataset
-├── notebooks/
-│ └── sentiment_analysis_youtube_reviews.ipynb # Full analysis & modeling
-├── src/
-│ └── scrape_reviews.py # Google Play scraping script
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
+```bash 
+  youtube-app-sentiment-analysis/
+  ├── data/
+  │ └── raw/
+  │ └── com.google.android.youtube_reviews.csv # Scraped dataset
+  ├── notebooks/
+  │ └── sentiment_analysis_youtube_reviews.ipynb # Full analysis & modeling
+  ├── src/
+  │ └── scrape_reviews.py # Google Play scraping script
+  ├── requirements.txt # Python dependencies
+  └── README.md # Project documentation
+```
 ---
 
 ## 📥 Data Collection
